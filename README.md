@@ -36,7 +36,9 @@
 <pre>sudo apt-get install zenity</pre>
 
 <p><strong>Descargar el Script:</strong></p>
-<pre>wget https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/configurar_java.sh</pre>
+<pre>
+    wget https://github.com/oscarsanchezt/JavaExportVersion
+</pre>
 
 <p><strong>Dar Permiso de Ejecución:</strong></p>
 <pre>chmod +x configurar_java.sh</pre>
