@@ -37,14 +37,14 @@
 
 <p><strong>Descargar el Script:</strong></p>
 <pre>
-    wget https://github.com/oscarsanchezt/JavaExportVersion
+wget https://github.com/oscarsanchezt/JavaExportVersion/blob/main/JavaExportVersion.sh
 </pre>
 
 <p><strong>Dar Permiso de Ejecución:</strong></p>
-<pre>chmod +x configurar_java.sh</pre>
+<pre>chmod +x JavaExportVersion.sh</pre>
 
 <p><strong>Ejecutar el Script:</strong></p>
-<pre>./configurar_java.sh</pre>
+<pre>./JavaExportVersion.sh</pre>
 
 </body>
 </html>
